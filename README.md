@@ -74,6 +74,7 @@ Device handlers are easy to implement and prove to be futureproof.
 * Alcatel Lucent: device_params={'name':'alu'}
 * H3C: device_params={'name':'h3c'}
 * HP Comware: device_params={'name':'hpcomware'}
+* OpenDayLight: device_params={'name':'odl'}
 
 
 ### Changes | brief
